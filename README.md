@@ -22,6 +22,16 @@ me.greetings()
 me.job()
 ```
 
+## ⭐ Showcase Repositories
+
+<a href="https://github.com/AgentOxygen/HDP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentOxygen&repo=HDP&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="HDP" />
+</a>
+
+<a href="https://github.com/AgentOxygen/HDP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentOxygen&repo=gents&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GenTS" />
+</a>
+
 ## 💡 Skills
 **Programming Languages**
 
@@ -55,16 +65,6 @@ me.job()
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## ⭐ Showcase Repositories
-
-<a href="https://github.com/AgentOxygen/HDP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentOxygen&repo=HDP&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="HDP" />
-</a>
-
-<a href="https://github.com/AgentOxygen/HDP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentOxygen&repo=gents&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GenTS" />
-</a>
 
 ## 🧾 Acknowledgements
 This profile README.md was inspired by https://github.com/Zhenye-Na.
