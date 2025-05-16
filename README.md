@@ -28,7 +28,7 @@ me.job()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentOxygen&repo=HDP&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="HDP" />
 </a>
 
-<a href="https://github.com/AgentOxygen/HDP">
+<a href="https://github.com/AgentOxygen/GenTS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentOxygen&repo=gents&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GenTS" />
 </a>
 
