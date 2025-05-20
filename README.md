@@ -9,13 +9,16 @@ class ComputationalEngineer:
 
     def __init__(self):
         self.name = "Cameron Cummins"
-        self.role = "Software Engineer and Geoscientific Researcher"
+        self.role = "Software Developer and Geoscientific Researcher"
 
     def greetings(self):
         print("Hello there! Thanks for checking out my GitHub.")
 
     def job(self):
-        print("TBD, open for hire.")
+        self.org = "The University of Texas at Austin"
+        self.unit = "The Department of Earth and Planetary Sciences"
+        self.position = "Computational Geoscientist"
+        
 
 me = ComputationalEngineer()
 me.greetings()
